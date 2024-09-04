@@ -15,6 +15,8 @@ Most people use alt accounts for VaultCord anyways so their bot is safe if their
 
 You can always use the **Manual** option on our dashboard if that makes you more comfortable
 
+Other websites & origins are **NOT** able to access data from the local webserver, there are security checks in place for that.
+
 ## Copyright License
 
 VaultCord Account Connector is licensed under **Elastic License 2.0**
