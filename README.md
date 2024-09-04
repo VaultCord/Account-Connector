@@ -11,6 +11,7 @@
 Only our client-side dashboard sees the details and it's NOT saved in database, do not worry.
 
 We require 2FA so it's only temporary access to make a bot.
+<br>
 Most people use alt accounts for VaultCord anyways so their bot is safe if their account gets deleted..
 
 You can always use the **Manual** option on our dashboard if that makes you more comfortable
