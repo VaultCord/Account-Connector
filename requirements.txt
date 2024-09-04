@@ -1,0 +1,5 @@
+requests
+pycryptodome
+pypiwin32
+colorama
+tls-client>=0.2.1
