@@ -81,7 +81,7 @@ class CustomHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         import console
         c = console.prnt()
 
-        referer = self.headers.get('Referer')
+        referer = self.headers.get('Origin')
         if not referer:
             print("No referer specified, please try again")
 
